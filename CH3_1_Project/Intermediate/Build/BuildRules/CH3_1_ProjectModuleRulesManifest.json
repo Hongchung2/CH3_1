@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Project\\UnrealEngine\\CH3_1\\CH3_1_Project\\Source\\CH3_1_Project\\CH3_1_Project.Build.cs",
+		"C:\\Project\\UnrealEngine\\CH3_1\\CH3_1_Project\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Project\\UnrealEngine\\CH3_1\\CH3_1_Project\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"C:\\Project\\UnrealEngine\\CH3_1\\CH3_1_Project\\Source\\CH3_1_Project.Target.cs",
+		"C:\\Project\\UnrealEngine\\CH3_1\\CH3_1_Project\\Source\\CH3_1_ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

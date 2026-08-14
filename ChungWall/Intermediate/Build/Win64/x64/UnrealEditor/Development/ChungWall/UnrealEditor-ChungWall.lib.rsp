@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ChungWall.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Project/UnrealEngine/CH3_1/ChungWall/Intermediate/Build/Win64/x64/ChungWallEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Project/UnrealEngine/CH3_1/ChungWall/Intermediate/Build/Win64/x64/UnrealEditor/Development/ChungWall/ChungWall.cpp.obj"
+"C:/Project/UnrealEngine/CH3_1/ChungWall/Intermediate/Build/Win64/x64/UnrealEditor/Development/ChungWall/PerModuleInline.gen.cpp.obj"
+"C:/Project/UnrealEngine/CH3_1/ChungWall/Intermediate/Build/Win64/x64/UnrealEditor/Development/ChungWall/Default.rc2.res"
+/OUT:"C:/Project/UnrealEngine/CH3_1/ChungWall/Intermediate/Build/Win64/x64/UnrealEditor/Development/ChungWall/UnrealEditor-ChungWall.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ChungWall",
+			"Path": "..\\Source\\ChungWall.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ChungWallEditor",
+			"Path": "..\\Source\\ChungWallEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

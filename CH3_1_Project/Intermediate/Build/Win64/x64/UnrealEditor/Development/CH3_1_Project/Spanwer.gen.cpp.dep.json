@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\project\\unrealengine\\ch3_1\\ch3_1_project\\intermediate\\build\\win64\\unrealeditor\\inc\\ch3_1_project\\uht\\spanwer.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\project\\unrealengine\\ch3_1\\ch3_1_project\\intermediate\\build\\win64\\x64\\ch3_1_projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\project\\unrealengine\\ch3_1\\ch3_1_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ch3_1_project\\definitions.ch3_1_project.h",
+            "c:\\project\\unrealengine\\ch3_1\\ch3_1_project\\source\\ch3_1_project\\public\\spanwer.h",
+            "c:\\project\\unrealengine\\ch3_1\\ch3_1_project\\intermediate\\build\\win64\\unrealeditor\\inc\\ch3_1_project\\uht\\spanwer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
